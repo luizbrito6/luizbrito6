@@ -1,5 +1,6 @@
-# Olá, bem vindo ao meu perfil!
-![img-github](https://github.com/luizbrito6/luizbrito6/assets/112624030/5e4841b9-70ec-4641-9b73-37c963b9d655)
+# Olá, bem vindo! 👋​💻​
+
+![img-github (1)](https://github.com/luizbrito6/luizbrito6/assets/112624030/3292f885-e0bb-41d9-aaaa-539d0e14fe97)
 
 
 
