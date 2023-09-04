@@ -13,4 +13,4 @@
 
 ## Minhas skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,py,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,py,tailwind,php)](https://skillicons.dev)
