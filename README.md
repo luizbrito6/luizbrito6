@@ -12,7 +12,7 @@ Sou estudante de programação e através da tecnologia quero resolver problemas
 
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luizbrito6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
-### Formação acadêmica 
+### Formação acadêmica 🎒
 
 > <strong>Técnico em Desenvolvimento de Sistemas | SENAI Suiço Brasileiro | Concluído </strong>
 
