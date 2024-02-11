@@ -14,4 +14,4 @@ Sou estudante de programação e através da tecnologia quero resolver problemas
  
 ### Minhas skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,sass,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,sass,tailwind,styledcomponents,docker,linux)](https://skillicons.dev)
