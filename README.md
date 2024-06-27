@@ -1,4 +1,4 @@
-Z### Seja bem vindo(a) ao meu perfil no GitHub! 😸
+### Seja bem vindo(a) ao meu perfil no GitHub! 😸
 <hr>
 
 > [!IMPORTANT]
