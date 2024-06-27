@@ -1,4 +1,4 @@
-### Seja bem vindo(a) ao meu perfil no GitHub! 😸
+Z### Seja bem vindo(a) ao meu perfil no GitHub! 😸
 <hr>
 
 > [!IMPORTANT]
@@ -20,4 +20,4 @@ Sou estudante de programação e através da tecnologia quero resolver problemas
 
 ### Minhas skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,sass,tailwind,styledcomponents,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,figma,git,github,linux,c)](https://skillicons.dev)
