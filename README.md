@@ -16,3 +16,6 @@ Sou estudante de programação e através da tecnologia quero resolver problemas
 ### Minhas skills 💻
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,figma,git,github,linux,c)](https://skillicons.dev)
+
+
+https://excalidraw.com/#json=1s5R81MZVEhFrx9Gpg0wf,UG8FDOqIUthLMmxMcRgLKQ
