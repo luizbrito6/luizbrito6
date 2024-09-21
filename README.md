@@ -17,7 +17,3 @@ Sou estudante de programação e através da tecnologia quero resolver problemas
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,js,figma,git,github,linux,c)](https://skillicons.dev)
 
-
-https://meet.google.com/ira-pfeo-umt?pli=1
-
-https://excalidraw.com/#json=1s5R81MZVEhFrx9Gpg0wf,UG8FDOqIUthLMmxMcRgLKQ
